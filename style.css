@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body .container-fluid {
+  height: 100%;
+  color: white;
+}
+body .aside {
+  height: 75vh;
+  width: 100%;
+  padding-top: 25px;
+}
+body .col-12 {
+  height: 55vh;
+  width: 100%;
+  color: white;
+  padding-top: 30px;
+}
+body .col-6 {
+  padding-top: 35px;
+}
+body .border-white {
+  border: 2px solid white;
+  padding: 0;
+}
+body .col {
+  background-color: blue;
+  border: 2px solid white;
+}
+body .row {
+  background-color: blue;
+}/*# sourceMappingURL=style.css.map */

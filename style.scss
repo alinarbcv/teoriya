@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    .container-fluid {
+        height: 100%;
+        color: white;
+
+    }
+
+    .aside {
+        height: 75vh;
+        width: 100%;
+        padding-top: 25px;
+    }
+
+    .col-12 {
+        height: 55vh;
+        width: 100%;
+        color: white;
+        padding-top: 30px;
+    }
+
+    .col-6 {
+        padding-top: 35px;
+    }
+
+    .border-white {
+        border: 2px solid white;
+        padding: 0;
+    }
+
+    .col {
+        background-color: blue;
+        border: 2px solid white;
+    }
+
+    .row {
+        background-color: blue;
+
+    }
+
+
+
+
+}
